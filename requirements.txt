@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+torch
+transformers
+nltk
+pillow
+gtts
+streamlit
+plotly
+speechrecognition
+python-dotenv 
+phi 
